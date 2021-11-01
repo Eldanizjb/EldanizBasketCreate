@@ -1,0 +1,12 @@
+@import "header";
+@import "main";
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    height: 2000px;
+    background-color: rgb(180, 176, 172);
+}
